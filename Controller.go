@@ -8,10 +8,10 @@ import (
 
 	"github.com/AnimusPEXUS/gologger"
 
-	"github.com/AnimusPEXUS/dnet/cmd/dnetgtk/applications/builtin_address_tracker"
-	"github.com/AnimusPEXUS/dnet/cmd/dnetgtk/applications/builtin_net_ip"
-	"github.com/AnimusPEXUS/dnet/cmd/dnetgtk/applications/builtin_ownkeypair"
-	"github.com/AnimusPEXUS/dnet/cmd/dnetgtk/applications/builtin_owntlscert"
+	"github.com/AnimusPEXUS/dnetgtk/applications/builtin_address_tracker"
+	"github.com/AnimusPEXUS/dnetgtk/applications/builtin_net_ip"
+	"github.com/AnimusPEXUS/dnetgtk/applications/builtin_ownkeypair"
+	"github.com/AnimusPEXUS/dnetgtk/applications/builtin_owntlscert"
 )
 
 //const CONFIG_DIR = "~/.config/DNet"
